@@ -13,4 +13,6 @@ using TungSon;
         }
 
         public DbSet<TungSon.NTS> NTS { get; set; }
+
+        public DbSet<TungSon.Sinhvien> Sinhvien { get; set; }
     }

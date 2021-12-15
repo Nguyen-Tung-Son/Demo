@@ -176,3 +176,8 @@ C:\NTS\TungSon\obj\Debug\net5.0\Razor\Views\NTS\Delete.cshtml.g.cs
 C:\NTS\TungSon\obj\Debug\net5.0\Razor\Views\NTS\Details.cshtml.g.cs
 C:\NTS\TungSon\obj\Debug\net5.0\Razor\Views\NTS\Edit.cshtml.g.cs
 C:\NTS\TungSon\obj\Debug\net5.0\Razor\Views\NTS\Index.cshtml.g.cs
+C:\NTS\TungSon\obj\Debug\net5.0\Razor\Views\Sinhvien\Create.cshtml.g.cs
+C:\NTS\TungSon\obj\Debug\net5.0\Razor\Views\Sinhvien\Delete.cshtml.g.cs
+C:\NTS\TungSon\obj\Debug\net5.0\Razor\Views\Sinhvien\Details.cshtml.g.cs
+C:\NTS\TungSon\obj\Debug\net5.0\Razor\Views\Sinhvien\Edit.cshtml.g.cs
+C:\NTS\TungSon\obj\Debug\net5.0\Razor\Views\Sinhvien\Index.cshtml.g.cs

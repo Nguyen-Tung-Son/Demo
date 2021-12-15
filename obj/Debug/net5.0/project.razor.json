@@ -15624,6 +15624,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\NTS\\TungSon\\Views\\Sinhvien\\Delete.cshtml",
+      "TargetPath": "Views\\Sinhvien\\Delete.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\NTS\\TungSon\\Views\\_ViewImports.cshtml",
       "TargetPath": "Views\\_ViewImports.cshtml",
       "FileKind": "mvc"
@@ -15631,6 +15636,11 @@
     {
       "FilePath": "c:\\NTS\\TungSon\\Views\\Shared\\_Layout.cshtml",
       "TargetPath": "Views\\Shared\\_Layout.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\NTS\\TungSon\\Views\\Sinhvien\\Create.cshtml",
+      "TargetPath": "Views\\Sinhvien\\Create.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -15674,8 +15684,23 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\NTS\\TungSon\\Views\\Sinhvien\\Edit.cshtml",
+      "TargetPath": "Views\\Sinhvien\\Edit.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\NTS\\TungSon\\Views\\Sinhvien\\Details.cshtml",
+      "TargetPath": "Views\\Sinhvien\\Details.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\NTS\\TungSon\\Views\\NTS\\Create.cshtml",
       "TargetPath": "Views\\NTS\\Create.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\NTS\\TungSon\\Views\\Sinhvien\\Index.cshtml",
+      "TargetPath": "Views\\Sinhvien\\Index.cshtml",
       "FileKind": "mvc"
     }
   ],

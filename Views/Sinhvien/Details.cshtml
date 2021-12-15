@@ -1,0 +1,30 @@
+@model TungSon.Sinhvien
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h1>Details</h1>
+
+<div>
+    <h4>Sinhvien</h4>
+    <hr />
+    <dl class="row">
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.SVname)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.SVname)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.SVgender)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.SVgender)
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-action="Edit" asp-route-id="@Model.SVId">Edit</a> |
+    <a asp-action="Index">Back to List</a>
+</div>
